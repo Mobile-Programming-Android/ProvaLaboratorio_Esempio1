@@ -1,0 +1,7 @@
+### Android Studio ###
+.gradle/
+.idea/
+gradle/
+
+### Application ###
+app/build/
